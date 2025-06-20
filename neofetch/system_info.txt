@@ -16,3 +16,21 @@ Memory: 188MiB / 1963MiB
 
 
 
+----- Neofetch Alumno B -----
+vagrant@VMPruebas 
+----------------- 
+OS: Ubuntu 22.04.4 LTS x86_64 
+Host: VirtualBox 1.2 
+Kernel: 5.15.0-119-generic 
+Uptime: 1 hour, 44 mins 
+Packages: 676 (dpkg), 6 (snap) 
+Shell: bash 5.1.16 
+Resolution: 1024x768 
+Terminal: /dev/pts/0 
+CPU: AMD Ryzen 5 4600G with Radeon Graphics (2) @ 3.692GHz 
+GPU: VirtualBox Graphics Adapter 
+Memory: 169MiB / 1963MiB 
+
+
+
+
