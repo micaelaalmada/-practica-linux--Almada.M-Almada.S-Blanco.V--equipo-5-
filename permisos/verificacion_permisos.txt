@@ -1,0 +1,12 @@
+===== VERIFICACIÓN DE PERMISOS - [AlmadaM] =====
+Archivos en mi directorio personal:
+total 16
+drwxrwxr-x  3 vagrant vagrant 4096 Jun 20 20:36 .
+drwxr-x--- 13 vagrant vagrant 4096 Jun 20 19:47 ..
+drwxrwxr-x  2 vagrant vagrant 4096 Jun 20 20:36 permisos
+-rw-------  1 vagrant vagrant    0 Jun 20 19:48 privado.txt
+-rw-r--r--  1 vagrant vagrant    0 Jun 20 19:48 publico.txt
+-rw-rw-r--  1 vagrant vagrant  358 Jun 20 20:21 usuarios_[AlmadaM].txt
+Archivos en directorio colaborativo:
+Información del grupo equipotrabajo:
+
