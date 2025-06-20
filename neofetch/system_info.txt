@@ -4,7 +4,7 @@ vagrant@VMPruebas
 OS: Ubuntu 22.04.4 LTS x86_64 
 Host: VirtualBox 1.2 
 Kernel: 5.15.0-119-generic 
-Uptime: 4 hours, 46 mins 
+Uptime: 4 hours, 57 mins 
 Packages: 676 (dpkg), 6 (snap) 
 Shell: bash 5.1.16 
 Resolution: 1024x768 
