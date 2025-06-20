@@ -23,7 +23,7 @@ oss[37m[0m[1myNMMMNyMMh[0m[31m[1msssssssssssssshmmmh[0m[31m[1mssssssso
 [43C[0m[31m[1mOS[0m[0m:[0m Ubuntu 22.04.4 LTS x86_64[0m 
 [43C[0m[31m[1mHost[0m[0m:[0m VirtualBox 1.2[0m 
 [43C[0m[31m[1mKernel[0m[0m:[0m 5.15.0-119-generic[0m 
-[43C[0m[31m[1mUptime[0m[0m:[0m 2 hours, 42 mins[0m 
+[43C[0m[31m[1mUptime[0m[0m:[0m 3 hours, 51 mins[0m 
 [43C[0m[31m[1mPackages[0m[0m:[0m 676 (dpkg), 6 (snap)[0m 
 [43C[0m[31m[1mShell[0m[0m:[0m bash 5.1.16[0m 
 [43C[0m[31m[1mResolution[0m[0m:[0m 1024x768[0m 
